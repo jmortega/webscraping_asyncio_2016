@@ -1,0 +1,560 @@
+[
+    {
+        "title": "Registration",
+        "session_location": "None",
+        "session_time": "08:30 AM",
+        "track": "None",
+        "details": "None",
+        "speaker": "None",
+        "description": "None"
+    },
+    {
+        "title": "Opening",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "09:40 AM",
+        "track": "Keynote",
+        "details": "Chairperson",
+        "speaker": "David Markey",
+        "description": "None"
+    },
+    {
+        "title": "Mozilla & Python",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "10:00 AM",
+        "track": "Keynote",
+        "details": "Mozilla",
+        "speaker": "Tarek\t Ziad",
+        "description": "Python is heavily used at Mozilla for many different tasks. This talk will explain how and whyPython is often the language of choice in the Kingdom of Javascript and now Rust,"
+    },
+    {
+        "title": "Try, try, and try again",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "10:30 AM",
+        "track": "General",
+        "details": "Lecturer",
+        "speaker": "Paul Barry",
+        "description": "Writing code in Python is easier than most other   programming languages. So much so, in fact, that it's easy to quickly  knock-up something  to solve a problem, especially if your code is  ultimately \"throw-away\".  As a language, Python's  great at not getting in your way: you write  your code, it  runs, then  you move onto something else. But, how easy is it to to  write  robust code  in Python? What if your code has to hang around for a  long time? What  if you need to write code which not only runs but also  has to handle  problems should they occur? In this talk, Paul attempts  to answer these questions by presenting  some working  code, which he then dissects to highlight some of the  things that can go wrong,  before describing how it's possible to handle  and survive the identified  problems (should they occur)."
+    },
+    {
+        "title": "Introduction to Data Science",
+        "session_location": "Goldsmith 3",
+        "session_time": "10:30 AM",
+        "track": "PyData",
+        "details": "Data Scientist",
+        "speaker": "Ana  Peleteiro Ramallo",
+        "description": "The aim of this talk is to give a introduction to what data science  is, what kind of problems it can solve and how to solve them.  Participants will learn both with theory and a practical problem to  understand the end-to- end data science process. The contents will  include: What is data scienceData preprocessing and data manipulationNatural Language Processing (NLP)Machine Learning The talk is tailored for people interested in data science who do not  have previous knowledge about the topic, but have basic knowledge of  general computer science topics."
+    },
+    {
+        "title": "Introduction to Pandas library",
+        "session_location": "Workshop Room 1",
+        "session_time": "10:30 AM",
+        "track": "Workshop Track 1",
+        "details": "None",
+        "speaker": "Allen Thomas Varghese ",
+        "description": "None"
+    },
+    {
+        "title": "Python for Beginners",
+        "session_location": "Workshop Room 2",
+        "session_time": "10:30 AM",
+        "track": "Workshop Track 2",
+        "details": "Lecturer",
+        "speaker": "Damian Gordon",
+        "description": "None"
+    },
+    {
+        "title": "Get your code to do your job",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "11:00 AM",
+        "track": "General",
+        "details": "None",
+        "speaker": "Ronan Hayes",
+        "description": "I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it. In the AOL Adtech team we have some creative/easy ways to test our systems. This workshop will showcase two key points: How to get your code to generate your unit and integration testsHow to get your customers to generate even more tests The workshop will go into detail on: Modelling your interfaces and dataUsing introspection and JINJA2 to generate tests3 . Using the Elastic stack to monitor and collect dataLeveraging data to generate more test cases. The workshop will assume a beginner level of python and introduce  each library and technology . The net result is a very simple and easy  step by step guide to getting your code to do your job."
+    },
+    {
+        "title": "Natural Language Processing using Python tools",
+        "session_location": "Goldsmith 3",
+        "session_time": "11:00 AM",
+        "track": "PyData",
+        "details": "PhD Student",
+        "speaker": "Piyush  Arora",
+        "description": "In this workshop or talk I would like to focus more on  how language  processing is made easier using python tool kits. How can we set up  pipeline starting from scratch to the specific solution using Python  tools. I have been using python from last 5-6 years and my main area of  research is language processing and information retrieval. I have used  python tools previously on various projects and problems related to   Sentiment analysis, Text processing, Summarization , Classification etc.  For details you can check out my profile http://computing.dcu.ie/~parora/. I would like to talk about main 2 aspects: 1) Based Raw Text processing: using NLTK toolkit and other plugins2) Deep learning: using Gensim toolkit Depending on the time availability I would like to have some hands-on  experience or have some live coding to make the talk interactive. During my PhD and collaborative projects with researchers and  industries I have discovered sometime starting from scratch seems quite  complicated and can take lots of time and resources, but how can we  speed up that process and focus on the main innovative solution is the  main key resources, which I would like to address and discuss."
+    },
+    {
+        "title": "Cross-platform mobile game development with Kivy",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "11:30 AM",
+        "track": "General",
+        "details": "Technical Architect",
+        "speaker": "Rigel Di Scala",
+        "description": "The talk will sum up my experience using Kivy, a Python NUI  development framework, to develop mobile games that run on different  platforms: Android, iOS, and Windows. I explain how Kivy works, describe my build environment and  development process, and explain the technical details of a few demos. I  will talk about the strengths and weaknesses of this technology, and  tackle a few common questions regarding compatibility and performance. Kivy is a remarkable project that has very little literature about  it. Hopefully, my talk will raise the awareness of the Python community  and convince developers to try it out."
+    },
+    {
+        "title": "From documents to graphs with Python",
+        "session_location": "Goldsmith 3",
+        "session_time": "11:30 AM",
+        "track": "PyData",
+        "details": "None",
+        "speaker": "Hanneli  Tavante ",
+        "description": "None"
+    },
+    {
+        "title": "Deploy your Python Application Without Getting Owned",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "12:00 PM",
+        "track": "General",
+        "details": "None",
+        "speaker": "Justin Mayer",
+        "description": "With severe security vulnerabilities on the rise, its critical for  Python developers to understand how to protect their applications.  Unattended upgrades, automated TLS certificate provisioning, enhanced  web security, and other measures can significantly reduce the attack  surface of the systems upon which our applications run."
+    },
+    {
+        "title": "Putting python data science into production",
+        "session_location": "Goldsmith 3",
+        "session_time": "12:00 PM",
+        "track": "PyData",
+        "details": "Head of Software Development",
+        "speaker": "Brian  O'Mullane",
+        "description": "Data science once involved working with a large data set in relative  isolation and producing a static report to present at a quarterly  meeting. Decision makers in companies have been inspired by the types of  insights the data can offer and are asking more questions of it, such  as what happens if I change this variable or where did this result come  from. Data scientist regularly now present their analysis not in reports  but in web apps or behind APIs that allow this kind of interrogation. We have been building data science solutions for 10 years and have  learnt many lessons along the way. In this talk we will run through how  to build performant, scalable and validated data science web apps, using  python."
+    },
+    {
+        "title": "Lunch",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "12:45 PM",
+        "track": "None",
+        "details": "None",
+        "speaker": "None",
+        "description": "None"
+    },
+    {
+        "title": "Gilectomy",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "01:45 PM",
+        "track": "Keynote",
+        "details": "Release Manager for Python 3.4 and 3.5",
+        "speaker": "Larry Hastings",
+        "description": "CPythons Global Interpreter Lock, or GIL, was  added in 1992. It was an excellent design decision. But 24 years is a  long timetoday it prevents Python from capitalizing on multiple CPUs.  Many people want us to remove the GIL.  It turns out, removing the GIL isnt actually that hard. In fact, I  already removed it, in my experimental gilectomy branch. But the GIL  is one reason CPython is so fast! The gilectomy makes CPython  shockingly slow.  This talk will discuss the history of the GIL, how the GIL helps make  CPython fast, how the gilectomy removed the GIL, and some ways we  might be able to make the gilectomy version fast enough to be useful."
+    },
+    {
+        "title": "Overview of Python Web Development, from Searching to Deployment.",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "02:30 PM",
+        "track": "General",
+        "details": "Software Engineer",
+        "speaker": "Andrea Fagan",
+        "description": "This talk is about helping people new to development & Python to connect the dots between googling python web development and reaching deployment. When entering the world of development there is a huge learning curve. Its not just about understanding python syntax and writing a function. How does everything fit together? This talk will attempt to introduce the budding developer to the options available and why you may choose one over another.I will run through the following topics: The major python web frameworks that exist. We will examine the pros and cons of the main players.Python itself, Apis vs Services, what goes where?How to build restfully and the importance of adhering to correct http protocols. How does javascript know what to do?The merits of testing and running through the different testing libraries that are available.Brief intro to Github and pointing to resources to help learn how to commit.Highlighting any gotchasDeployment tools.Hosting, where to go?How to google for relevant answers.Python community for answers. (globally and local)Hopefully those that attending will have a greater understanding of the whole development system so they will know what to research for each step and where to find answers."
+    },
+    {
+        "title": "Data Pipeline Evolution",
+        "session_location": "Goldsmith 3",
+        "session_time": "02:30 PM",
+        "track": "PyData",
+        "details": "None",
+        "speaker": "Ali King",
+        "description": "How do you build a big data pipeline when the size of your data starts  to get out of hand?  How do you improve on the initial model when people  are demanding more data, and faster?This talk covers the evolution  of a data pipeline in Python, from daily full load to up-to-the-minute  event stream, based on our experience at FanDuel.  Technologies covered  include Amazon EMR, Redshift, Hadoop, Luigi, Spark and Kinesis.  We also  look at the challenges and trade-offs, and building a big data  engineering team."
+    },
+    {
+        "title": "The power of SQLAlchemy",
+        "session_location": "Workshop Room 1",
+        "session_time": "02:30 PM",
+        "track": "Workshop Track 1",
+        "details": "None",
+        "speaker": "David Mcilwee",
+        "description": "The power of SQLAlchemy Object-relational mappers (ORM) have somewhat of a bad reputation. SQLAlchemy is not just an ORM, but gives you an entire toolkit to aid you in working with any SQL relational database.In this talk I will give an introduction and deep dive into the 2 main sections of the library, the expression language and the ORM. And outline some of the more powerful features available at your fingertips.I have used SQLAlchemy extensively for over 3 years now. Creating a full domain model using it's declarative mappings. Constructing optimized queries and custom SQL statements and built a self-optimizing domain specific language (DSL) for a fully-fledged REST API.I hope to impart some of the tips, tricks and ways of working that I have gained over this time."
+    },
+    {
+        "title": "Natural Language Processing with Python",
+        "session_location": "Workshop Room 2",
+        "session_time": "02:30 PM",
+        "track": "Workshop Track 2",
+        "details": "Data Scientist",
+        "speaker": "Marco Bonzanini ",
+        "description": "This tutorial will introduce the audience to the fields of Natural Language Processing (NLP) and Machine Learning (ML) using a hands-on approach. Analysing and truly understanding natural language\n is a difficult task, but Python doesn't fall short in terms of making \nthis topic approachable, thanks to its rich ecosystem and active \ncommunity.\n\nFirstly we'll provide an overview on NLP using NLTK, the Natural Language Toolkit, one of the most popular Python library for NLP. We'll discuss some of the most important text processing steps and how they impact the quality of our final application.\n\nWe'll then move on to some notions of word frequency analysis, like TF \nand IDF. All these concepts are going to be applied in the context of a \ntext classification system. Using scikit-learn, we'll understand how to build a classifier, and how to use\n it to categorise documents according to pre-defined labels. We'll \nbriefly discuss how to assess the quality of our model, and how we can \ntune it to achieve better predictions.\n\nThere are no particular requirements to attend this tutorial, so Python \nbeginners are welcome. Some prior basic notions of machine learning can \nbe beneficial, but the theoretical aspects are kept to the bare minimum:\n the aim of this tutorial is to be practical and approachable. Attendees\n are encouraged to bring their own laptop with Python 3, NLTK and \nscikit-learn pre-installed (instructions for pip/virtualenv will be \nprovided, but please feel free to set up the environment in advance)."
+    },
+    {
+        "title": "CPython - Bytecode and Virtual Machine",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "03:00 PM",
+        "track": "General",
+        "details": "None",
+        "speaker": "Stephane Wirtel",
+        "description": "From a small example of code, we will generate the bytecode with the  compiler, we will study the generated bytecode with the tools of CPython  and especially we will see the execution of this bytecode by the  virtual machine with a modified version of CPython, just for this  talk.This talk is based on my previous talk \"Exploring our Python  Interpreter\" but in this talk, we will go more in the details of the  interpreter and especially of the virtual machine."
+    },
+    {
+        "title": "Data Analysis in MRI and PET/MRI Neuroimaging",
+        "session_location": "Goldsmith 3",
+        "session_time": "03:00 PM",
+        "track": "PyData",
+        "details": "PhD student",
+        "speaker": "Davide  Poggiali ",
+        "description": "Since the introduction of new hybrid systems as PET/MRI and due to the  constant increase of MRI sequences, neuroimaging datasets are growing  constantly. Nowadays a Neurological research study has to be considered a  big data problem. In this talk I will introduce from scratch some of  the most common algorithms for computing neuroimaging biomarkers and  give some ideas about efficiency increasing. Some examples in python  will be given."
+    },
+    {
+        "title": "Building Hermetic Python Packages with Bazel @ Dropbox",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "03:30 PM",
+        "track": "General",
+        "details": "Site Reliability Engineer",
+        "speaker": "Leonid Vasilyev",
+        "description": "In this presentation, Id like to talk about  Dropboxs Python code repository, how we build and package it, so it can  be safely deployed to production.Specifically  Id like to focus on the issues we had with dependency management and  how Bazel build system, which was open-sourced by Google early last  year, helped us deal with it.Also,  Im going to cover lessons-learned and what plumbing was done in order  to make Bazel work for Dropbox in development, test and production  environment.Key take-aways for attendees:* An approach to introducing dependency management system into existing codebase* Better understanding of how Bazel works in real-world"
+    },
+    {
+        "title": "Recruit Session",
+        "session_location": "Goldsmith 3",
+        "session_time": "03:30 PM",
+        "track": "PyData",
+        "details": "SQL programmer",
+        "speaker": "Harald Armin Massa",
+        "description": "None"
+    },
+    {
+        "title": "Break",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "04:00 PM",
+        "track": "General",
+        "details": "None",
+        "speaker": "None",
+        "description": "None"
+    },
+    {
+        "title": "Practical Django Debugging and Profiling",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "04:15 PM",
+        "track": "General",
+        "details": "Chief Technical Architect",
+        "speaker": "Sean O'Donnell",
+        "description": "I plan to cover Debug Mode, The Django Debug Toolbar, The Werkzeug  Debugger,  Profiling Middleware, Logging and Locust for Load testing.  The Goal is to introduce each tool, give its pros and cons, and a short  demonstration. Ideally there will be enough time for some Q&A at the  end."
+    },
+    {
+        "title": "Experimenting with TensorFlow",
+        "session_location": "Goldsmith 3",
+        "session_time": "04:15 PM",
+        "track": "PyData",
+        "details": "None",
+        "speaker": "Breandan  Considine ",
+        "description": "From implementing new research to validating results, running machine learning experiments can often be a process of trial and error. TensorFlow is an open source computing framework that places state of the art algorithms and tools into developers' hands, allowing you to rapidly iterate experiments, monitor their results and scale into production. We'll show you how to train machine learning pipelines from  conception to release with TensorFlow."
+    },
+    {
+        "title": "All Kinds of Everything - Human Input Devices in Python",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "05:00 PM",
+        "track": "General",
+        "details": "None",
+        "speaker": "Zeth Green",
+        "description": "Inputs is a brand new module published in 2016 but it is already  gaining some traction. The inputs module provides cross-platform Python  support for keyboards, mice, gamepads, touch screens, wiimotes, buttons,  switches and pretty much any other input device you might want to use.  Currently supported platforms are the Raspberry Pi, Linux, Windows and  the Apple Mac. The talk is suitable for everyone. The inputs module is very high  level and suitable for complete beginners to programming, I will also  explain very briefly for more advanced developers how to support a new  class of device, but not in a boring way. In a light-hearted fashion, I will demonstrate how to use the inputsmodule  and will demonstrate some embedded/Internet of Things use cases, a  digital signage use case and some more comical, imaginative and  entertaining applications of the module. https://pypi.python.org/pypi/inputs"
+    },
+    {
+        "title": "Gradient boosting: What is it and How can I use in my machine learning ?",
+        "session_location": "Goldsmith 3",
+        "session_time": "05:00 PM",
+        "track": "PyData",
+        "details": "Senior Proactive Technical Services Engineer",
+        "speaker": "Eoin Brazil",
+        "description": "Gradient boosting is a very popular technique in Machine Learning and particularly so for competitions like those hosted by Kaggle. This talk will provide an introduction to the technique, a short historical recap and then focus on the existing libraries in Python that allow you to use this general family. It'll work through the advantages and disadvantage of specific libraries using worked examples. The code and slides will be in Github. The end learning of attendees will be sufficient knowledge to understand when to use this technique and what is the most appropriate Python library for their needs."
+    },
+    {
+        "title": "Managing Kubernetes from Python using Kube",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "05:30 PM",
+        "track": "General",
+        "details": "None",
+        "speaker": "David Charles",
+        "description": "Kubernetes is the Google Borg inspired control plane for Docker  containers that everyone is talking about.  It has a great API but needs  a load of HTTP client code and JSON processing to use it from Python.   This talk introduces Kube, a Python wrapper around the Kubernetes API  that enables you to manage your Kubernetes cluster in a pythonic way  while avoiding any Kubernetes API peculiarities."
+    },
+    {
+        "title": "Python for Text Analysis Kaggle Competition",
+        "session_location": "Goldsmith 3",
+        "session_time": "05:30 PM",
+        "track": "PyData",
+        "details": "None",
+        "speaker": "John  Savage",
+        "description": "Using the recent Home Depot Search Relevance Kaggle competition (https://www.kaggle.com/c/home-depot-product-search-relevance)  as an example, this talk will give a general overview of a predictive  analytics project in python, specifically focusing on text analytics. This talk will first give an introduction to Kaggle and this  competition in particular. To give an introduction to predictive  analytics, I will then show how to start designing \"features\" which  describe the similarity of two samples of text. Using a very simple  feature, the number of overlapping words, we can build our first simple  predictive model. Building on this base, we'll then explore more  advanced text mining techniques, such as term frequency matrices,  TF-IDF, Latent Semantic Analysis, and word2vec. Finally, we can see how  the final random forest model performs and what the most important  features were. I've delivered this presentation in 30 minutes at a work event  already. I can tweak the talk to focus less on the introduction to  predictive analytics and more on the text analytics methods if that  would be a better fit for the audience."
+    },
+    {
+        "title": "Lightning Talks",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "06:00 PM",
+        "track": "Keynote",
+        "details": "SQL programmer",
+        "speaker": "Harald Armin Massa",
+        "description": "None"
+    },
+    {
+        "title": "Entertainment",
+        "session_location": "None",
+        "session_time": "07:00 PM",
+        "track": "General",
+        "details": "Software Engineer",
+        "speaker": "Andrea Fagan",
+        "description": "None"
+    },
+    {
+        "title": "Scurri Keynote",
+        "session_location": "None",
+        "session_time": "10:00 AM",
+        "track": "Keynote",
+        "details": "None",
+        "speaker": "None",
+        "description": "Title TBD"
+    },
+    {
+        "title": "Cut your losses! How to use web scraping to analyse Ireland's used car market.",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "10:30 AM",
+        "track": "General",
+        "details": "None",
+        "speaker": "Ruairi Fahy",
+        "description": "Depreciation of value when you buy a car is inevitable, but can you  limit your losses? Is it true that Toyotas and Volkswagens hold their  value? What does high mileage do to a cars value?Lets leave  aesthetics and preferences aside and use real data to see what really  determines the price of a car on the second hand market. This session will cover: How to make spiders using Portia and scrapy to extract data from Irish car websites.The use of simhash to find duplicates in different datasets.How to use pandas to analyse and plot scraped data."
+    },
+    {
+        "title": "Social Network Analysis at Scale",
+        "session_location": "Goldsmith 3",
+        "session_time": "10:30 AM",
+        "track": "PyData",
+        "details": "None",
+        "speaker": "Eoin  Hurrell ",
+        "description": "This talk will focus on the scientific analysis of social networks, how  to derive useful insights from social graphs using Python, and discuss  some lessons learned from taking this analysis out of the lab and into  to a useful product in a production setting. I will cover acquiring  data, predicting influence or activity, recommending possible friends  from the graph and detecting communities within large networks.  Experience with tools used to do this, including sklearn, networkx,  Spark and Kafka will be covered."
+    },
+    {
+        "title": "Introduction to Python, Spark & Hadoop",
+        "session_location": "Workshop Room 1",
+        "session_time": "10:30 AM",
+        "track": "Workshop Track 1",
+        "details": "None",
+        "speaker": "Niall O'Connor",
+        "description": "Using python to interact with the spark data engine on the hadoop platform.          What is hadoop.          What is spark.          What is pyspark.          Using pyspark to work with data on HDFS          Using pyspark to parallelize computation on a hadoop cluster.          Limitations of spark and hadoop. A workshop for python programmers to get familiar with hadoop and  spark.  It is assumed you can code and run a python module, that you  understand basic data structures.  It is assumed you have hadoop and  spark installed."
+    },
+    {
+        "title": "A Gentle Introduction to Neural Networks (with Python)",
+        "session_location": "Workshop Room 2",
+        "session_time": "10:30 AM",
+        "track": "Workshop Track 2",
+        "details": "None",
+        "speaker": "Tariq Rashid",
+        "description": "There is huge interest in neural networks right now - they are the  core of deep learning which recently has been in the news (self driving  cars, health data Google beating world Go champion), and a key tool for  data scientists, skills sought by more and more organisations to remain  competitive. They're also fun to play with! This talk presents a very gentle introduction to neural networks, and how to make your own with Python. It is deliberately designed to be accessible to everyone - including  anyone with no expertise in mathematics, computer science or Python. After this session you should have an intuitive understanding of what  neural networks are and how they work, how they were inspired by  nature, and what you can do with them. If you can program in Python  (beginner to intermediate), you will see how you could make your own  with Python and numpy. Part 1 - Ideas: - the search for AI, hard problems for computers easy  fro humans - learning from examples (simple classifier) - biologically  inspired neurons and networks - training a neural network - the back  propagation breakthrough - matrix ways of working (good for computers) Part 2 - Python: - Python is easy, and everywhere - Python notebooks -  the MNIST data set - a very simple neural network class - focus on  concise and efficient matrix calculations with bumpy - 97.5% accuracy  recognising handwritten numbers - with just a few lines of code! Part 3 - Live demo! .. and Q&A"
+    },
+    {
+        "title": "Plug in with Python",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "11:00 AM",
+        "track": "General",
+        "details": " Software Architect",
+        "speaker": "Markus  Trnqvist",
+        "description": "First I'll talk about what plugins are in general. From there it's on  to show an overview of the philosophy of plugins and different ways  they're used in different types of applications, what kinds of  peculiarities there are. I will top it off with some live coding!"
+    },
+    {
+        "title": "How Data Science fits in the Balanced Team",
+        "session_location": "Goldsmith 3",
+        "session_time": "11:00 AM",
+        "track": "PyData",
+        "details": "None",
+        "speaker": "Ian Huston",
+        "description": "The goal of a Balanced Team is to share ownership and responsibility  for the success of a project between team members. Each team member has  specific obligations to the team and a specific area of authority. Until  recently, designers, product managers and developers were the usual  team members considered. In this talk I will explore how data scientists  can function in a balanced team and discuss my experience working as a  data scientist on balanced teams at Pivotal Labs with our global  clients. I will consider what obligations and authority a data scientist  can provide as part of a balanced team and how this situation differs  from the usual jack-of-all-trades type data science work. I will outline specific examples where data science can help user  centric design and product management, and where the practices of  lean-startup and agile development can help accelerate analysis and data  science. Based on my experience building data science driven products  with a global bank and European car manufacturers, I will outline what  we tried, what worked and most importantly what didnt. If you are a data scientist or need to work with one, this talk will  equip you to understand how data science can be an integral part of a  balanced team."
+    },
+    {
+        "title": "Lessons Learned Open Sourcing Codespeed",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "11:30 AM",
+        "track": "General",
+        "details": "None",
+        "speaker": "Miquel Torres",
+        "description": "Open Sourcing a Python project can teach you lessons in so diverse  fields as Software Engineering, Project Management, Marketing, Community  Management and more. Looking back at the past 7 years, Codespeed, my first Open Source  project, has been a niche but very successful project by many metrics.  It is or has been in use by well-known projects and organizations like  the PSF, PyPy, Twisted, RubySpec, Julia (lang), companies like AMD,  Dropbox and many others, and to this date there is no clear alternative.  And yet its codebase has become a mess and active development grounded  to a halt for a spell of two or three years. What lessons can we learn from that story? This talk will highlight  some aspects that went horribly wrong, as well as explain some concepts  in the original design that proved key for the project's success."
+    },
+    {
+        "title": "How to Merge Noisy Datasets",
+        "session_location": "Goldsmith 3",
+        "session_time": "11:30 AM",
+        "track": "PyData",
+        "details": "None",
+        "speaker": "Johannes  Ahlmann ",
+        "description": "Acquiring large datasets is quite simple these days on the internet, but  data is often noisy and most of the value often lies in combining,  connecting and merging multiple datasets from different sources.This  talk gives an overview of Probabilistic Record Matching, i.e. the  challenges posed when dealing with noisy data, how to normalize data and  how to match noisy records to each other.The goal of the  presentation is to give participants an understanding of the  possibilities and challenges of merging datasets, as well as mention  some of the amazing python libraries available.Topics discussed: normalization of attributes, approximate string matching, performance, similarity clustering"
+    },
+    {
+        "title": "Webscraping with Asyncio",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "12:00 PM",
+        "track": "General",
+        "details": "Software engineer",
+        "speaker": "Jose Manuel Ortega",
+        "description": "If we want to extract the contents of a website automating  information extraction, often we find that the website does not offer  any API to get the data you need and it is necessary use scraping  techniques to recover data from a Web automatically. Some of the most  powerful tools for extracting the data in web pages can be found in  python ecosystem. 1.Introduction to webscraping and python tools Some of the most powerful tools to extract data can be found in the  python ecosystem, among which we highlight Beautiful soup, Pyquery and  Scrapy. 2.Asyncio with aiohttp for asyncronous requests I will make an introduction to asyncio and aiohttp modules explaining  the basic concepts like coroutines and event loops and try to compare  them with requests module. The most important is understand why the  union asyncio + aiohttp has a better performance than requests module. 3.Asynchronous scraping data I will show an example integrating some of the scraping tools  commented before like BeautifulSoup or Scrapy with asyncio + aiohttp and  obtain the performance improvement comparing with Requests module."
+    },
+    {
+        "title": "Building a social network content recommendation service using Factorisation machines ",
+        "session_location": "Goldsmith 3",
+        "session_time": "12:00 PM",
+        "track": "PyData",
+        "details": "Data Scientist",
+        "speaker": "Conor Duke",
+        "description": "Rasa.io  are a community management platform. They wanted to build a service  which would generate a personalised content feed based on both user  commentary and external news feeds. We have use python and a  factorisation machines framework to create a service which there  platform could call to generate a personalised feed"
+    },
+    {
+        "title": "Lunch",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "01:00 PM",
+        "track": "None",
+        "details": "None",
+        "speaker": "None",
+        "description": "None"
+    },
+    {
+        "title": "Using type hints for runtime type checking",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "02:00 PM",
+        "track": "General",
+        "details": "None",
+        "speaker": "Ivan Smirnov",
+        "description": "In this talk, I will present an efficient runtime type checking solution built on top of type hints and the new typing module introduced in Python 3.5, as a complement to static type checking offered by Mypy and PyType. Topics we're going to cover: Type annotations (Python 3.0, PEP 3107)Type hints and typing module (Python 3.5, PEP 484)Mypy: semi-official experimental static type checkerBuilding a fast runtime type checker using type hints"
+    },
+    {
+        "title": "Detection of Duplicate Records in Large-scale Multi-tenant Platforms",
+        "session_location": "Goldsmith 3",
+        "session_time": "02:00 PM",
+        "track": "PyData",
+        "details": "None",
+        "speaker": "Paul  O'Grady",
+        "description": "Zalando's quest to create an open multi-tenant fashion platform has  its challenges. One of these is the detection of duplicate product  records within the platform, where different tenants input the same  product using different product descriptions. Commonly referred to as  the Record Linkage problem in Machine Learning, the task is to  group together similar product records under a single canonical  identifier, which is useful for business intelligence purposes and for  product search etc. The kernel of the solution is the computation of an  ~O(n**2) all-pairs similarity join, where the runtime explodes  quadratically with an increase in input. At Zalando's Fashion Insight Centre in Dublin we are looking at  solutions to this problem that work at scale (i.e., more than one  million products). For our particular problem, which involves  Categorical Data (cosine similarity will not work here), we employ a  data-driven similarity measure and approximate the similarity join using  a two-step approach. In this talk we introduce the standard approaches  to the problem and illustrate our work-to-date using Python."
+    },
+    {
+        "title": "Seeing inside your code with Prometheus",
+        "session_location": "Workshop Room 1",
+        "session_time": "02:00 PM",
+        "track": "Workshop Track 1",
+        "details": "None",
+        "speaker": "Brian Brazil",
+        "description": "There's more going on inside your code than cpu and memory usage. Requests are processed, databases queried, business logic applied and exceptions raised. Wouldn't it be nice to see how that's all going?This workshop will take you through how to instrument your code for what matters to you,exposing it to Prometheus and creating meaningful graphs, alerts and dashboards based on it."
+    },
+    {
+        "title": "Mongo DB Zero to Hero in 2 hours",
+        "session_location": "Workshop Room 2",
+        "session_time": "02:00 PM",
+        "track": "Workshop Track 2",
+        "details": "Director of Developer Advocacy",
+        "speaker": "Joe Drumgoole",
+        "description": "Joe will take you through an overview of MongoDB, the world's most popular NoSQL database and show you how to build fault tolerant, scalable python applications using the Pymongo driver."
+    },
+    {
+        "title": "The Evolution of Containerised Testing at Demonware",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "02:30 PM",
+        "track": "General",
+        "details": "Build Engineer",
+        "speaker": "Thomas Shaw",
+        "description": "As the feedback loop between developers and customers continues to shrink, the ability to deliver features and fixes in near real-time becomes more crucial.  Continuous Delivery (CD) pipelines can enable teams to deliver code quickly but optimisation of the Build, Test and Deploy stages can be the difference between a 10 minute deployment and a 5 hour deployment.At Demonware we are using Docker to optimise the Test Stage of our CD pipelines.  Containerised testing has helped us reduce test execution time, make tests more portable, better utilize our test infrastructure and deliver game services to our customers faster.This talk will cover some of the challenges we faced along the way and the various approaches we used to containerise our tests."
+    },
+    {
+        "title": "Forest Resource Information & Data Analysis Using Python",
+        "session_location": "Goldsmith 3",
+        "session_time": "02:30 PM",
+        "track": "PyData",
+        "details": "None",
+        "speaker": "Daniel McInerney",
+        "description": "Forest resource information is required for the planning and management  of forest stands. Traditionally, forest inventories relied solely on  field inventory surveys, but new technologies, such as satellite imagery  and laser scanning are being used to improve the accuracy of forest  parameter estimates and update them in a more timely way. This talk will  focus on an open-source software environment that is underpinned by  Python that is used to analyse and store disparate sources of  forest  inventory data."
+    },
+    {
+        "title": "Kajiki, the fast and validated Template Engine your were looking for",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "03:00 PM",
+        "track": "General",
+        "details": "None",
+        "speaker": "Alessandro Molina",
+        "description": "Being dissatisfied with some of the constraints and complex usage of  Genshi, the TurboGears2 team started working on an alternative that  could solve Genshi speed issues, complex inheritance system and be  backward compatible with genshi templates. This is what lead to the  creation of the Kajiki template engine. The talk will cover: - Comparison on the major template engines  available in python to showcase what's special in Kajiki (validated, xml  based) what was special in Genshi (also lazy evaluated)- What's a validated template engine and why it's good to have one.- How Kajiki works, showcase kajiki syntax, it's performances and how to use it in any python project.-  Why Kajiki is fast, code generation applied and how to write a code  generation template engine like Kajiki and Jinja2 (showcase a simple 50  lines of code template engine that uses code generation)."
+    },
+    {
+        "title": "The Bluffer's Guide to Data Science",
+        "session_location": "Goldsmith 3",
+        "session_time": "03:00 PM",
+        "track": "PyData",
+        "details": "Lecturer",
+        "speaker": "Paul Barry",
+        "description": "A light-hearted look at the world of Data Science for Python programmers who are eyeing-up the Data Science problem domain and thinking: \"It can't be all that hard, can it?\". In his talk, Paul presents his thinking on what Python programmers need to know in order to convincingly pass themselves off as a \"real\" Data Scientist."
+    },
+    {
+        "title": "Rethinking package management",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "03:30 PM",
+        "track": "General",
+        "details": "None",
+        "speaker": "Rok Garbas",
+        "description": "Packaging is a hard problem. Still every language/distribution tries  to invent packaging on their own. This leaves us (developers /  sysadmins) with a big number of tools that we need to master in order to  do our job. We will look at how Nix[1] and NixOS[2] can be used in  today's software development processes and which are the benefits and  drawbacks you might face. In this talk we will look into how Nix can be used to solve some  problems we face when developing with python and how it might just be  the right tool for your next project. [1] Nix is a powerful package manager for Linux and other Unix  systems that makes package management reliable and reproducible. It  provides atomic upgrades and rollbacks, side-by-side installation of  multiple versions of a package, multi-user package management and easy  setup of build environments. [2] NixOS is a Linux distribution built on top of the Nix package  manager, it is completely declarative, makes upgrading systems reliable,  and has many other advantages."
+    },
+    {
+        "title": "Introduction to Image classification in Python: from API calls to Neural Networks",
+        "session_location": "Goldsmith 3",
+        "session_time": "03:30 PM",
+        "track": "PyData",
+        "details": "None",
+        "speaker": "Jose Dominguez ",
+        "description": "In a world full of user generated media content, automated image and  video processing plays a prominent role, both in social media apps  (face, object, and place detection), and in local applications that  automatically sort media collections, among other uses. In the last few years, a number of startups such as Clarifai and  Indico, and much bigger players such as Google and Microsoft, have  launched their own 'machine learning as a service' offerings, including  'vision' products that can recognise objects present in image and video  footage and automatically tag them, provide optical character  recognition (OCR) services, and even not safe for work (NSFW)  classifiers that can be used to omit content from internal networks. This talk will focus on 'food' recognition within images, and will  walk through the basics of how to get started with image classification,  from using APIs and SDKs for some of the commercial (but free)  offerings available, to trying and recreate those services locally,  first by walking through and example of the 'bag of features' technique,  using a mix of supervised and unsupervised methods in scikit-learn and  OpenCV, and secondly showing examples based on 'transfer learning', a  'deep learning' technique to reuse pre-trained convolutional neural  networks to customise classification from smaller training datasets."
+    },
+    {
+        "title": "Break",
+        "session_location": "None",
+        "session_time": "04:00 PM",
+        "track": "None",
+        "details": "None",
+        "speaker": "None",
+        "description": "None"
+    },
+    {
+        "title": "Pythonista: A full-featured Python environment for iOS devices",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "04:15 PM",
+        "track": "General",
+        "details": "None",
+        "speaker": "Christian Clauss",
+        "description": "The Pythonista app delivers a full-featured Python 2 and 3 development  experience on an iPad or an iPhone. This introduction to the app will  provide a rapid overview of the Pythonista user experience, features and  Community Forum. Then it will focus on a few source code examples of  using the GPS to deliver real-time local weather, use the image library  to manipulate images and convert documents, use the gyroscope to  understand pitch, yaw, and roll, use Dropbox to backup and restore  scripts, images, etc."
+    },
+    {
+        "title": "Part of Speech Tagging: Who's winning.",
+        "session_location": "Goldsmith 3",
+        "session_time": "04:15 PM",
+        "track": "PyData",
+        "details": "None",
+        "speaker": "Brian Carter ",
+        "description": "Up until quite recently the main go to part-of-speech tagger (POS) for use in Python was the NLTK Tagger using the default Penn Treebank tagger. Another popular option was from the Stanford Log-Linear Part-Of-Speech Tagger from Stanford CoreNLP. In May 2016 Google open sourced SyntaxNet with the humorously named English parser Parsey McParseFace. Another commercial company Spacy.io also provides an open source parser. The development of Part-Of-Speech tagging continues in academia, but most are not at the stage where they can be easily used outside of research. How do these taggers differ? This talk will give an overview of part-of-speech tagging from a practical implementation/use-case point of view. What is part-of-speech taggingReal life performance on datasetsHow you might use POS in a projectCompare and contrast the above mentioned taggers for performance."
+    },
+    {
+        "title": "Making good testing decisions",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "05:00 PM",
+        "track": "General",
+        "details": "None",
+        "speaker": "Ingrid Epure",
+        "description": "Testing is important and we all know we should test. When starting a new\n project or trying to improve the coverage of an existing one, there is \nstill a lot of debate around what frameworks should be used, what are \nthe best practices when mocking, when should we mock vs using in memory \nand more importantly, the reasons behind each decision. This talk aims \nto provide some insights on making good testing decisions."
+    },
+    {
+        "title": "Deep learning with Keras",
+        "session_location": "Goldsmith 3",
+        "session_time": "05:00 PM",
+        "track": "PyData",
+        "details": "Senior Research Engineer/ Data Scientist",
+        "speaker": "Shubhabrata  Roy",
+        "description": "It has always been our dream to create machines that can think. In  the early phase of artificial intelligence, we solved the problems that  could have been described by a list of formal and mathematical rules.  The main motivation was solving the tasks that are trivial for people to  perform but difficult to describe formally, for example recognizing  objects in images or spoken words. Neural networks have been one  predominant area of research in artificial intelligence that stayed in  limelight over the past five decades or so. However, one major boost in  this domain happened around 2010 when the computers got much faster and  data sets got much bigger. The existing algorithms with some critical  tweaks and improvements became much more efficient and won several  challenges in computer vision, speech recognition, and natural language  processing. In this talk, I would briefly describe how neural networks works and  then move towards state-of-the-art approaches of deep learning. I would  describe in detail how to build deep learning models and its training  procedures using the deep learning library \"Keras\" that removes all of  the complexity, leaving you an API containing only what you need to know  to efficiently develop and evaluate neural network models. This talk  aims to present two use cases (facial recognition and sequence  prediction) that uses Keras for model building and evaluation."
+    },
+    {
+        "title": "Closing",
+        "session_location": "Goldsmith 1+2",
+        "session_time": "05:45 PM",
+        "track": "Keynote",
+        "details": "Chairperson",
+        "speaker": "David Markey",
+        "description": "None"
+    },
+    {
+        "title": "Sprints",
+        "session_location": "None",
+        "session_time": "10:00 AM",
+        "track": "Workshop Track 1",
+        "details": "None",
+        "speaker": "None",
+        "description": "None"
+    },
+    {
+        "title": "DjangoGirls Workshop",
+        "session_location": "None",
+        "session_time": "10:00 AM",
+        "track": "Workshop Track 2",
+        "details": "None",
+        "speaker": "None",
+        "description": "Pythoin Ireland are very pleased to host a DjangioGirls workshop. Please sign up athttps://djangogirls.org/dublin/"
+    }
+]
